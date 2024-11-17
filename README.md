@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a high-performance pipeline for real-time lossless compression of data streamed to an FPGA via Ethernet. The system leverages NEON SIMD instructions and out-of-order queue processing to accelerate computation, resulting in significant performance improvements. The code [repo](https://github.com/manvi27/Deduplication-and-Compression) is private, reach out to me at manviaga27@gmail.com to gain access to the repo. <o>
+This project implements a high-performance pipeline for real-time lossless compression of data streamed to an FPGA via Ethernet. The system leverages NEON SIMD instructions and out-of-order queue processing to accelerate computation, resulting in significant performance improvements. The code [repo](https://github.com/manvi27/Deduplication-and-Compression) is private, reach out to me at manviaga27@gmail.com to gain access to the repo.
 
 ### Key features:
 - Real-time lossless compression on Ethernet-streamed data to FPGA
